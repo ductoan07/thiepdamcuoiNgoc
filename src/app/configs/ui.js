@@ -1,6 +1,6 @@
 import images from "../images";
 
-const WISH_API_LINK = "https://sheetdb.io/api/v1/k5tth7tpmq0tw"; // use mock api
+const WISH_API_LINK = "https://sheetdb.io/api/v1/nb6m21czoj6bk"; // use mock api
 const cdnLink =
   "https://res.cloudinary.com/ecsr9vbf/image/upload/f_auto,q_auto/v1793965992";
 
