@@ -1,5 +1,5 @@
 // Đường dẫn SheetDB của bạn
-const WISH_API_LINK = "https://sheetdb.io/api/v1/jzh5wk0oxdvls";
+const WISH_API_LINK = "https://sheetdb.io/api/v1/nb6m21czoj6bk";
 
 // 1. Hàm lấy danh sách lời chúc (GET)
 export const getWishes = async () => {
